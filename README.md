@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Ophanim.png" alt="Ophanim Plugin" width="100%">
+  <img src="assets/Ophanim.pn" alt="Ophanim Plugin" width="100%">
 </p>
 
 <h1 align="center">Ophanim</h1>
