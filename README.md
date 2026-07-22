@@ -75,6 +75,15 @@
 
 ---
 
+## Feedback & Support
+
+Found a bug?
+- **Email**: archangeldsp@gmail.com
+- **Website**: [https://www.archangeldsp.sbs](https://archangeldsp.sbs)
+- **Instagram**: @ArchangelDSP
+
+---
+
 ## License
 
 Arcadia Voices is proprietary software by Archangel DSP.
