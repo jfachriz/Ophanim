@@ -80,7 +80,7 @@
 Found a bug?
 - **Email**: archangeldsp@gmail.com
 - **Website**: [https://www.archangeldsp.sbs](https://archangeldsp.sbs)
-- **Instagram**: @ArchangelDSP
+- **Instagram**: [@Archangel DSP](https://www.instagram.com/archangel_dsp/)
 
 ---
 
