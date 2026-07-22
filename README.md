@@ -20,10 +20,8 @@
 ## Features
 
 - **Interactive Parametric EQ Graph**: Double-click to create nodes, drag to adjust frequency & gain, mouse wheel to tweak Q / slope steepness.
-- **FabFilter-Style Resonant Filters**: Real-time Low Cut, High Cut, Bell, Low Shelf, and High Shelf filters with natural resonance behavior.
 - **Real-Time Spectrum Analyzer**: Multi-band FFT analyzer visualization.
 - **Reverb Engine Controls**: Comprehensive controls for Decay, Pre-Delay, Mix, and Stereo Width.
-- **Sleek Hardware Interface**: Dark-mode UI styled with glowing LED meters and custom controls.
 - **VST3 Format**: Built using JUCE C++ backend and a high-performance React web frontend.
 
 ---
@@ -53,12 +51,6 @@
    bash copy_web_resources.sh
    ```
    *(This builds the production React application and automatically deploys `Ophanim.vst3` to `~/Library/Audio/Plug-Ins/VST3/Ophanim.vst3`)*
-
-4. **Compile macOS Installer Package (.dmg)**:
-   ```bash
-   bash build_installer.sh
-   ```
-   *(Generates `Ophanim-v1.0.0.dmg` inside the `Installer/` directory)*
 
 ---
 
