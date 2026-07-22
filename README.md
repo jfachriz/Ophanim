@@ -77,4 +77,4 @@
 
 ## License
 
-© 2026 **Archangel DSP**. All rights reserved.
+© 2026 Archangel DSP | [Website](https://archangeldsp.sbs) | [Support](mailto:archangeldsp@gmail.com)
