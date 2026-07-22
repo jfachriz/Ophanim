@@ -11,24 +11,24 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **Ophanim** is a high-performance audio reverb plugin designed by **Archangel DSP**. It combines a real-time visual spectrum analyzer with interactive resonant filters and a rich reverb processing engine.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎛️ **Interactive Parametric EQ Graph**: Double-click to create nodes, drag to adjust frequency & gain, mouse wheel to tweak Q / slope steepness.
-- 🌊 **FabFilter-Style Resonant Filters**: Real-time Low Cut, High Cut, Bell, Low Shelf, and High Shelf filters with natural resonance behavior.
-- ⚡ **Real-Time Spectrum Analyzer**: Multi-band FFT analyzer visualization.
-- 🎚️ **Reverb Engine Controls**: Comprehensive controls for Decay, Pre-Delay, Mix, and Stereo Width.
-- 🎨 **Sleek Hardware Interface**: Dark-mode UI styled with glowing LED meters and custom controls.
-- 🔌 **VST3 Format**: Built using JUCE C++ backend and a high-performance React web frontend.
+- **Interactive Parametric EQ Graph**: Double-click to create nodes, drag to adjust frequency & gain, mouse wheel to tweak Q / slope steepness.
+- **FabFilter-Style Resonant Filters**: Real-time Low Cut, High Cut, Bell, Low Shelf, and High Shelf filters with natural resonance behavior.
+- **Real-Time Spectrum Analyzer**: Multi-band FFT analyzer visualization.
+- **Reverb Engine Controls**: Comprehensive controls for Decay, Pre-Delay, Mix, and Stereo Width.
+- **Sleek Hardware Interface**: Dark-mode UI styled with glowing LED meters and custom controls.
+- **VST3 Format**: Built using JUCE C++ backend and a high-performance React web frontend.
 
 ---
 
-## 🛠️ Building from Source
+## Building from Source
 
 ### System Requirements
 - **OS**: macOS 10.15 (Catalina) or later
@@ -62,7 +62,7 @@
 
 ---
 
-## 📦 File Format & System Installation
+## File Format & System Installation
 
 | Format | Output File | Install Location |
 | :--- | :--- | :--- |
@@ -71,6 +71,6 @@
 
 ---
 
-## 📜 License
+## License
 
 © 2026 **Archangel DSP**. All rights reserved.
